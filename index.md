@@ -3,4 +3,5 @@
 Environmental science student at Haskell Indian Nations University  
 Working on certification in GIS
 
-* Rilee.mccurley@haskell.edu
+* [Rilee's Email](Rilee.mccurley@haskell.edu)
+* [Linkin](www.linkedin.com/in/rilee-mccurley)
