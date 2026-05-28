@@ -1,6 +1,6 @@
 # Rilee McCurley 
 
-<img src="img/Image.jpeg" alt="Pic" width="300">
+<img src="IMG_3526.jpg" alt="Pic" width="300">
 
 ### Environmental science student at Haskell Indian Nations University  
 ### Working on certification in GIS
