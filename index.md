@@ -7,3 +7,5 @@ Working on certification in GIS
 
 * [Rilee's Email](Rilee.mccurley@haskell.edu)
 * [Linkin](www.linkedin.com/in/rilee-mccurley/)
+* <a href="www.linkedin.com/in/rilee-mccurley/" target="_blank">Visit Example Website</a>
+* <a href="Rilee.mccurley@haskell.edu" target="_blank">Visit Example Website</a> 
