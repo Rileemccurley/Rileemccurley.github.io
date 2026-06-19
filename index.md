@@ -1,5 +1,3 @@
-# Rilee McCurley 
-
 <img src="img/IMG_3526.jpg" alt="Pic" width="300">
 
 ### Environmental science student at Haskell Indian Nations University  
