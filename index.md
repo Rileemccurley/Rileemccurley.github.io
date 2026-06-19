@@ -11,7 +11,7 @@
 
 <style>
         body {
-            background-color: #2b1055; /* Changes your background color */
+            background-color: #FFFCEB; /* Changes your background color */
             color: white;              /* Changes your text color to make it readable */
             font-family: sans-serif;
         }
