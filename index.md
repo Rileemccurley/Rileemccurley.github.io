@@ -9,7 +9,11 @@
 * [Rilee's Email](mailto:Rilee.mccurley@haskell.edu)
 * [LinkedIn](https://www.linkedin.com/in/rilee-mccurley/)
 
-body {
-  background-color: #808080; /* Replace with your preferred HEX color code */
-}
+<style>
+        body {
+            background-color: #2b1055; /* Changes your background color */
+            color: white;              /* Changes your text color to make it readable */
+            font-family: sans-serif;
+        }
+    </style>
 
