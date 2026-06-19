@@ -23,8 +23,7 @@
 description: "Environmental Science and GIS Student"
 remote_theme: pages-themes/slate@v0.2.0
 
-plugins:
-  - jekyll-remote-theme
+plugins: -jekyll-remote-theme
 )
 
 <hr> <!-- This adds a clean divider line above your footer -->
