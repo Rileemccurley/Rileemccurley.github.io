@@ -16,4 +16,11 @@
             font-family: sans-serif;
         }
     </style>
+title: Rilee's Page
+name: Rilee McCurley
+
+remote_theme: pages-themes/slate@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
 
