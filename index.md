@@ -14,6 +14,8 @@
             background-color: #FFFCEB; /* Changes your background color */
             color: black;              /* Changes your text color to make it readable */
             font-family: sans-serif;
+            font-size: 12
+        
         }
     </style>
 
