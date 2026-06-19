@@ -12,7 +12,7 @@
 <style>
         body {
             background-color: #FFFCEB; /* Changes your background color */
-            color: white;              /* Changes your text color to make it readable */
+            color: black;              /* Changes your text color to make it readable */
             font-family: sans-serif;
         }
     </style>
