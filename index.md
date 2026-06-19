@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cloudflare.com">
+
 <img src="img/IMG_3526.jpg" alt="Pic" width="300">
 
 ### Environmental science student at Haskell Indian Nations University  
@@ -28,7 +30,7 @@
     </a> 
     
     <!-- GitHub Icon Link --> 
-    <a href="https://github.com/Rileemccurley" target="_blank" style="margin: 0 15px; font-size: 30px; color: #ffffff; text-decoration: none;"> 
+    <a href="https://github.com/Rileemccurley" target="_blank" style="margin: 0 15px; font-size: 30px; color: #000000; text-decoration: none;"> 
         <i class="fab fa-github"></i> 
     </a> 
 </footer>
