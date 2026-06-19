@@ -16,11 +16,21 @@
             font-family: sans-serif;
         }
     </style>
-title: Rilee's Page
-name: Rilee McCurley
 
-remote_theme: pages-themes/slate@v0.2.0
+<hr> <!-- This adds a clean divider line above your footer -->
 
-plugins:
-  - jekyll-remote-theme
+<footer style="text-align: center; padding: 20px 0; margin-top: 40px;">
+    <p>Connect with me:</p>
+    (
+    <!-- LinkedIn Icon Link -->
+    <a href="https://linkedin.com" target="[https://www.linkedin.com/in/rilee-mccurley/]" style="margin: 0 15px; font-size: 30px; color: #0077B5; text-decoration: none;">
+        <i class="fab fa-linkedin"></i>
+    </a> )
+
+  (  <!-- GitHub Icon Link -->
+    <a href="https://github.com" target="_blank" style="margin: 0 15px; font-size: 30px; color: #333333; text-decoration: none;">
+        <i class="fab fa-github"></i>
+    </a>)
+</footer>
+
 
