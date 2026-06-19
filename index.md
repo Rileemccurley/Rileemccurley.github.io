@@ -24,15 +24,16 @@
 <footer style="text-align: center; padding: 20px 0; margin-top: 40px;">
     <p>Connect with me:</p>
     
-    <!-- LinkedIn Icon Link -->
-    <a href="https://linkedin.com" target="[https://www.linkedin.com/in/rilee-mccurley/]" style="margin: 0 15px; font-size: 30px; color: #0077B5; text-decoration: none;">
-        <i class="fab fa-linkedin"></i>
-    </a> 
+  <!-- LinkedIn Icon Link --> 
+<a href="[https://linkedin.com](https://www.linkedin.com/in/rilee-mccurley/)" target="_blank" style="margin: 0 15px; font-size: 30px; color: #0077B5; text-decoration: none;"> 
+    <i class="fab fa-linkedin"></i> 
+</a> 
 
-    <!-- GitHub Icon Link -->
-    <a href="https://github.com" target="_blank" style="margin: 0 15px; font-size: 30px; color: #333333; text-decoration: none;">
-        <i class="fab fa-github"></i>
-    </a>
+<!-- GitHub Icon Link --> 
+<a href="[https://github.com](https://github.com/Rileemccurley)" target="_blank" style="margin: 0 15px; font-size: 30px; color: #ffffff; text-decoration: none;"> 
+    <i class="fab fa-github"></i> 
+</a>
+
 </footer>
 
 
