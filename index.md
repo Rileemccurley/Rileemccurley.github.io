@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cloudflare.com">
 
 <img src="img/IMG_3526.jpg" alt="Pic" width="300">
 
@@ -20,9 +19,9 @@
     </style>
 
 <hr> <!-- This adds a clean divider line above your footer -->
-
-<footer style="text-align: center; padding: 20px 0; margin-top: 40px;"> 
-    <p>Connect with me:; text color: black;</p> 
+<link rel="stylesheet" href="https://cloudflare.com">
+<footer style="text-align: center; text-color: black; padding: 20px 0; margin-top: 40px;"> 
+    <p>Connect with me:</p> 
     
     <!-- LinkedIn Icon Link --> 
     <a href="https://www.linkedin.com/in/rilee-mccurley/" target="_blank" style="margin: 0 15px; font-size: 30px; color: #0077B5; text-decoration: none;"> 
